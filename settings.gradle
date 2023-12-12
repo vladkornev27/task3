@@ -1,0 +1,12 @@
+rootProject.name = 'multi-module'
+include 'model'
+include 'driver'
+include 'deserializer'
+include 'generator'
+include 'serializer'
+include 'reflec'
+include 'sql'
+include 'att2_mains'
+include 'console'
+include 'web_app'
+
